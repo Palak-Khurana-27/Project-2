@@ -1,3 +1,3 @@
 # New Project
-This project was created from loacal system
+This project was created from loacal system .
 Created by PALAK.
